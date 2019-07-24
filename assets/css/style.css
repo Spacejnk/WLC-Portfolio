@@ -1,0 +1,41 @@
+.wlc {
+    font-weight: 500;  
+}
+
+.portfolio {
+    color: crimson;
+    text-decoration: none;
+}
+
+.res-portfolio {
+    color: rgb(20, 220, 87);
+    text-decoration: none;
+}
+
+.bootstrap-portfolio {
+    color: rgb(220, 20, 213);
+    text-decoration: none;
+}
+
+.psychic-game {
+    color: rgb(20, 200, 220);
+    text-decoration: none;
+}
+.unit-4-game {
+    color: rgb(220, 157, 20);
+    text-decoration: none;
+}
+
+.trivia-game {
+    color: rgb(160, 220, 20);
+    text-decoration: none;
+}
+
+.gif-tastic {
+    color: rgb(120, 20, 220);
+    text-decoration: none;
+}
+
+.nounderline {
+    text-decoration: none !important;
+  }
