@@ -1,5 +1,16 @@
+.jumbo-color {
+    background-color: rgb(255, 214, 218);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
 .wlc {
-    font-weight: 500;  
+    font-weight: 500; 
+}
+
+.x {
+    height: 100px;
+    margin-top: 10px;
 }
 
 .portfolio {
@@ -39,3 +50,34 @@
 .nounderline {
     text-decoration: none !important;
   }
+
+.card {
+    background-color: rgb(249, 247, 244);
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      text-decoration: none;
+      color: rgb(255, 89, 0);
+  }
+  
+  .linked-In {
+    margin-left: 50px; 
+    padding-bottom: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+ 
