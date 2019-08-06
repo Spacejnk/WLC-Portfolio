@@ -52,6 +52,11 @@
     text-decoration: none;
 }
 
+.date-night {
+    color: rgb(247, 51, 208);
+    text-decoration: none;
+}
+
 
 .nounderline {
     text-decoration: none !important;
