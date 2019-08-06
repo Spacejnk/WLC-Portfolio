@@ -47,6 +47,12 @@
     text-decoration: none;
 }
 
+.train {
+    color: rgb(220, 107, 20);
+    text-decoration: none;
+}
+
+
 .nounderline {
     text-decoration: none !important;
   }
