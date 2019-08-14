@@ -11,3 +11,12 @@ $(document).ready(function() {
    
 });
 
+
+var today = new Date;
+    document.getElementById('date-time').innerHTML= today.toDateString();
+
+var today = new Date;
+    document.getElementById('date-time').innerHTML= today.toDateString();
+
+
+
