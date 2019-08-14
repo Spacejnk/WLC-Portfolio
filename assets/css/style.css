@@ -72,8 +72,6 @@
   }
   .fa {
     padding: 10px;
-    font-size: 25px;
-    width: 50px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
@@ -86,14 +84,38 @@
   }
   
   .linked-In {
-    margin-left: 50px; 
-    padding-bottom: 20px;
+    margin-left: 0px; 
+    padding-bottom: 5px;
     border-radius: 5px;
     text-decoration: none;
   }
+  .github {
+    color: rgb(200, 0, 255);
+    font-size: 42px;
+    margin-right:124px;
+  }
+
   .mount-baldy a{
       margin-top: 0px;
       color: rgb(82, 165, 82);
       text-decoration: none;
   }
  
+#date-time {
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(58, 191, 215);
+    -webkit-animation: fadeinout 12s linear forwards;
+    animation: fadeinout 12s linear forwards;
+
+}
+
+
+@-webkit-keyframes fadeinout {
+        0%,100% { opacity: 0; }
+        50% { opacity: 1; }
+      }  
+@keyframes fadeinout {
+        0%,100% { opacity: 0; }
+        50% { opacity: 1; }
+      }
