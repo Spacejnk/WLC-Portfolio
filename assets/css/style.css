@@ -8,6 +8,16 @@
     font-weight: 500; 
 }
 
+.about-me-heading a{
+    text-decoration: none;
+    color:black;
+}
+
+.about-me-heading a:hover{
+    text-decoration: none;
+    color:rgb(255, 132, 0);
+}
+
 .x {
     height: 100px;
     margin-top: 10px;
@@ -91,8 +101,8 @@
   }
   .github {
     color: rgb(200, 0, 255);
-    font-size: 42px;
-    margin-right:124px;
+    font-size: 35px;
+    margin-left: -6px;
   }
 
   .mount-baldy a{
@@ -101,7 +111,7 @@
       text-decoration: none;
   }
  
-#date-time {
+  #date-time {
     font-weight: bold;
     font-size: 35px;
     color: rgb(58, 191, 215);
