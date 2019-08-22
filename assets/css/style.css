@@ -67,6 +67,11 @@
     text-decoration: none;
 }
 
+.liri-node-app {
+    color: rgba(22, 20, 18, 0.858);
+    text-decoration: none;
+}
+
 
 .nounderline {
     text-decoration: none !important;
@@ -119,6 +124,8 @@
     animation: fadeinout 12s linear forwards;
 
 }
+
+\
 
 
 @-webkit-keyframes fadeinout {
